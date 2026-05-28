@@ -11,7 +11,7 @@ library-wide statistics.
 
 ## Team
 
-| Name | Role |
+| Name | 
 |---|---|
 | 
 | Kiara Karriqi (team lead) 
@@ -21,7 +21,6 @@ library-wide statistics.
 | Meriklesta Hasanaj 
 | Kasem Bilal Kasemi 
 
-*Adjust roles to reflect actual responsibilities before submission.*
 
 ---
 
